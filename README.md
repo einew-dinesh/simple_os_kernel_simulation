@@ -14,5 +14,3 @@ This project implements a simple operating system kernel simulation using C++. I
 - **Kernel.h**: Header file defining the `Kernel` class and process control block (PCB) structure.
 - **Kernel.cpp**: Implementation of the `Kernel` class methods, including process management, scheduling, and interrupt handling.
 - **main.cpp**: Example usage of the `Kernel` class, demonstrating process creation, execution, and interrupt handling.
-
-## Getting Started
